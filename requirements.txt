@@ -1,0 +1,7 @@
+customtkinter
+requests
+pyyaml
+logging
+traceback
+yaml
+tkinter

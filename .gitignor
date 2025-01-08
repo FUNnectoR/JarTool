@@ -1,0 +1,21 @@
+# Python Bytecode
+__pycache__/
+
+# Логи
+logs/
+
+# Конфиги пользователя
+config/user_settings.yml
+
+# Среда виртуальной разработки
+venv/
+
+# Временные файлы
+*.swp
+*.log
+
+# Резервные копии
+backups/
+
+#Ключи
+*.key
