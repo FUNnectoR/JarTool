@@ -4,9 +4,6 @@ __pycache__/
 # Логи
 logs/
 
-# Конфиги пользователя
-config/user_settings.yml
-
 # Среда виртуальной разработки
 venv/
 
